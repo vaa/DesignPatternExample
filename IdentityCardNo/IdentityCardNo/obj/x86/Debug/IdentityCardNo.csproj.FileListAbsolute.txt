@@ -1,0 +1,4 @@
+c:\users\zhou\documents\visual studio 2010\Projects\IdentityCardNo\IdentityCardNo\bin\Debug\IdentityCardNo.exe
+c:\users\zhou\documents\visual studio 2010\Projects\IdentityCardNo\IdentityCardNo\bin\Debug\IdentityCardNo.pdb
+c:\users\zhou\documents\visual studio 2010\Projects\IdentityCardNo\IdentityCardNo\obj\x86\Debug\IdentityCardNo.exe
+c:\users\zhou\documents\visual studio 2010\Projects\IdentityCardNo\IdentityCardNo\obj\x86\Debug\IdentityCardNo.pdb

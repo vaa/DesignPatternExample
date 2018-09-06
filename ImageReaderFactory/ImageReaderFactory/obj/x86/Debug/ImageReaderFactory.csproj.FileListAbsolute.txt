@@ -1,0 +1,5 @@
+C:\Users\zhou\documents\visual studio 2010\Projects\ImageReaderFactory\ImageReaderFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhou\documents\visual studio 2010\Projects\ImageReaderFactory\ImageReaderFactory\bin\Debug\ImageReaderFactory.exe
+C:\Users\zhou\documents\visual studio 2010\Projects\ImageReaderFactory\ImageReaderFactory\bin\Debug\ImageReaderFactory.pdb
+C:\Users\zhou\documents\visual studio 2010\Projects\ImageReaderFactory\ImageReaderFactory\obj\x86\Debug\ImageReaderFactory.exe
+C:\Users\zhou\documents\visual studio 2010\Projects\ImageReaderFactory\ImageReaderFactory\obj\x86\Debug\ImageReaderFactory.pdb

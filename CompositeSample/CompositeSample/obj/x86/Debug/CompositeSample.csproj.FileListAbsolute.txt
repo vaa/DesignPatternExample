@@ -1,0 +1,4 @@
+C:\Users\zhou\Documents\Visual Studio 2010\Projects\CompositeSample\CompositeSample\bin\Debug\CompositeSample.exe
+C:\Users\zhou\Documents\Visual Studio 2010\Projects\CompositeSample\CompositeSample\bin\Debug\CompositeSample.pdb
+C:\Users\zhou\Documents\Visual Studio 2010\Projects\CompositeSample\CompositeSample\obj\x86\Debug\CompositeSample.exe
+C:\Users\zhou\Documents\Visual Studio 2010\Projects\CompositeSample\CompositeSample\obj\x86\Debug\CompositeSample.pdb

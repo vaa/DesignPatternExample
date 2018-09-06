@@ -1,0 +1,4 @@
+c:\users\zhou\documents\visual studio 2010\Projects\DecoratorSample\DecoratorSample\bin\Debug\DecoratorSample.exe
+c:\users\zhou\documents\visual studio 2010\Projects\DecoratorSample\DecoratorSample\bin\Debug\DecoratorSample.pdb
+c:\users\zhou\documents\visual studio 2010\Projects\DecoratorSample\DecoratorSample\obj\x86\Debug\DecoratorSample.exe
+c:\users\zhou\documents\visual studio 2010\Projects\DecoratorSample\DecoratorSample\obj\x86\Debug\DecoratorSample.pdb

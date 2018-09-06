@@ -1,0 +1,4 @@
+c:\users\zhou\documents\visual studio 2010\Projects\RobotAdapter\RobotAdapter\bin\Debug\RobotAdapter.exe
+c:\users\zhou\documents\visual studio 2010\Projects\RobotAdapter\RobotAdapter\bin\Debug\RobotAdapter.pdb
+c:\users\zhou\documents\visual studio 2010\Projects\RobotAdapter\RobotAdapter\obj\x86\Debug\RobotAdapter.exe
+c:\users\zhou\documents\visual studio 2010\Projects\RobotAdapter\RobotAdapter\obj\x86\Debug\RobotAdapter.pdb

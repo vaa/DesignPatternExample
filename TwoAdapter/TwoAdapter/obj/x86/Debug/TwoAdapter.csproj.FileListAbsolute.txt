@@ -1,0 +1,5 @@
+c:\users\zhou\documents\visual studio 2010\Projects\TwoAdapter\TwoAdapter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zhou\documents\visual studio 2010\Projects\TwoAdapter\TwoAdapter\bin\Debug\TwoAdapter.exe
+c:\users\zhou\documents\visual studio 2010\Projects\TwoAdapter\TwoAdapter\bin\Debug\TwoAdapter.pdb
+c:\users\zhou\documents\visual studio 2010\Projects\TwoAdapter\TwoAdapter\obj\x86\Debug\TwoAdapter.exe
+c:\users\zhou\documents\visual studio 2010\Projects\TwoAdapter\TwoAdapter\obj\x86\Debug\TwoAdapter.pdb

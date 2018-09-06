@@ -1,0 +1,5 @@
+c:\users\zhou\documents\visual studio 2010\Projects\StrategySample\StrategySample\bin\Debug\StrategySample.exe
+c:\users\zhou\documents\visual studio 2010\Projects\StrategySample\StrategySample\bin\Debug\StrategySample.pdb
+c:\users\zhou\documents\visual studio 2010\Projects\StrategySample\StrategySample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zhou\documents\visual studio 2010\Projects\StrategySample\StrategySample\obj\x86\Debug\StrategySample.exe
+c:\users\zhou\documents\visual studio 2010\Projects\StrategySample\StrategySample\obj\x86\Debug\StrategySample.pdb

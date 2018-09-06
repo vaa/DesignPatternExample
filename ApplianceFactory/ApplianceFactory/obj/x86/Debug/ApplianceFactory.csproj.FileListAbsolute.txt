@@ -1,0 +1,5 @@
+c:\users\zhou\documents\visual studio 2010\Projects\ApplianceFactory\ApplianceFactory\bin\Debug\ApplianceFactory.exe
+c:\users\zhou\documents\visual studio 2010\Projects\ApplianceFactory\ApplianceFactory\bin\Debug\ApplianceFactory.pdb
+c:\users\zhou\documents\visual studio 2010\Projects\ApplianceFactory\ApplianceFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zhou\documents\visual studio 2010\Projects\ApplianceFactory\ApplianceFactory\obj\x86\Debug\ApplianceFactory.exe
+c:\users\zhou\documents\visual studio 2010\Projects\ApplianceFactory\ApplianceFactory\obj\x86\Debug\ApplianceFactory.pdb

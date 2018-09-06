@@ -1,0 +1,5 @@
+c:\users\zhou\documents\visual studio 2010\Projects\CommandSample\CommandSample\bin\Debug\CommandSample.exe
+c:\users\zhou\documents\visual studio 2010\Projects\CommandSample\CommandSample\bin\Debug\CommandSample.pdb
+c:\users\zhou\documents\visual studio 2010\Projects\CommandSample\CommandSample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zhou\documents\visual studio 2010\Projects\CommandSample\CommandSample\obj\x86\Debug\CommandSample.exe
+c:\users\zhou\documents\visual studio 2010\Projects\CommandSample\CommandSample\obj\x86\Debug\CommandSample.pdb

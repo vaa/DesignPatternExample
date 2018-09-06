@@ -1,0 +1,5 @@
+c:\users\zhou\documents\visual studio 2010\Projects\IteratorSample\IteratorSample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zhou\documents\visual studio 2010\Projects\IteratorSample\IteratorSample\bin\Debug\IteratorSample.exe
+c:\users\zhou\documents\visual studio 2010\Projects\IteratorSample\IteratorSample\bin\Debug\IteratorSample.pdb
+c:\users\zhou\documents\visual studio 2010\Projects\IteratorSample\IteratorSample\obj\x86\Debug\IteratorSample.exe
+c:\users\zhou\documents\visual studio 2010\Projects\IteratorSample\IteratorSample\obj\x86\Debug\IteratorSample.pdb

@@ -1,0 +1,5 @@
+C:\Users\zhou\documents\visual studio 2010\Projects\BridgeSample\BridgeSample\bin\Debug\BridgeSample.exe
+C:\Users\zhou\documents\visual studio 2010\Projects\BridgeSample\BridgeSample\bin\Debug\BridgeSample.pdb
+C:\Users\zhou\documents\visual studio 2010\Projects\BridgeSample\BridgeSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhou\documents\visual studio 2010\Projects\BridgeSample\BridgeSample\obj\x86\Debug\BridgeSample.exe
+C:\Users\zhou\documents\visual studio 2010\Projects\BridgeSample\BridgeSample\obj\x86\Debug\BridgeSample.pdb

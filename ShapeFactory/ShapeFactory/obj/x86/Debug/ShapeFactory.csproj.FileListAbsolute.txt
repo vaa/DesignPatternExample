@@ -1,0 +1,5 @@
+c:\users\zhou\documents\visual studio 2010\Projects\ShapeFactory\ShapeFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zhou\documents\visual studio 2010\Projects\ShapeFactory\ShapeFactory\bin\Debug\ShapeFactory.exe
+c:\users\zhou\documents\visual studio 2010\Projects\ShapeFactory\ShapeFactory\bin\Debug\ShapeFactory.pdb
+c:\users\zhou\documents\visual studio 2010\Projects\ShapeFactory\ShapeFactory\obj\x86\Debug\ShapeFactory.exe
+c:\users\zhou\documents\visual studio 2010\Projects\ShapeFactory\ShapeFactory\obj\x86\Debug\ShapeFactory.pdb
